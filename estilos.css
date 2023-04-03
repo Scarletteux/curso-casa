@@ -1,0 +1,43 @@
+body {
+    
+    background-color: #f2f2f2f2;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+header {
+    width: 100%;
+    height: 130px;
+    background-color: blueviolet;
+}
+
+main {
+    width: 100%;
+   
+}
+
+.informacion {
+    width: 500px;
+    height: 300px;
+    background-image: url('https://img.freepik.com/foto-gratis/interior-casa-moda-muebles-modernos-ventanas-vidrio_181624-26452.jpg?w=1380&t=st=1680475862~exp=1680476462~hmac=bd1d2d781311d9ac2f3b032d8812bd502ee3a47cd363bd7fbeb492a08f2b9df7');
+   background-size: contain;
+   background-repeat: no-repeat;
+        margin: 0 auto;
+    margin-top: 50px;
+}
+
+.texto{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+footer {
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    background-color: aquamarine;
+
+}
